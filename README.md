@@ -1,19 +1,8 @@
-```markdown
+
 # 🧹 DeleteTweet - Elimina tus tweets automáticamente
 
 Este proyecto te permite eliminar en masa tus tweets antiguos de forma segura usando la API de Twitter v1.1 y autenticación OAuth 1.0a. Es ideal si descargaste tu historial desde Twitter y quieres limpiar tu cuenta en base a criterios como la fecha.
-
-## 📁 Estructura del proyecto
-
-```
-DeleteTweet/
-├── delete_tweets.py
-├── conf/
-│   └── config.yaml         # Tus credenciales de Twitter
-├── tweet-headers.js       # Archivo exportado desde Twitter
-├── README.md
-```
-
+```markdown
 ## ✅ Requisitos
 
 - Python 3.8 o superior
@@ -31,7 +20,7 @@ DeleteTweet/
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/DeleteTweet.git
+   git clone https://github.com/JoshuaPZz/DeleteTweets.git
    cd DeleteTweet
    ```
 
