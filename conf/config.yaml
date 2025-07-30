@@ -1,0 +1,5 @@
+twitter:
+  api_key: "TU_NUEVA_API_KEY"
+  api_secret: "TU_NUEVA_API_SECRET"
+  access_token: "TU_NUEVO_ACCESS_TOKEN"
+  access_token_secret: "TU_NUEVO_ACCESS_TOKEN_SECRET"
